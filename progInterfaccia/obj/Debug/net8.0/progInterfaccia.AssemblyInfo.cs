@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("progInterfaccia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88ccd26df1bdd673ccd0a6eda2ba95f7c0f53020")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01ee24ac4f6d6a3a7852340686b967df5ce6a6d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("progInterfaccia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("progInterfaccia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
