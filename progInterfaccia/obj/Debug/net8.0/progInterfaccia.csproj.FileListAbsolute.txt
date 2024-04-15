@@ -1,0 +1,15 @@
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\bin\Debug\net8.0\progInterfaccia.exe
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\bin\Debug\net8.0\progInterfaccia.deps.json
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\bin\Debug\net8.0\progInterfaccia.runtimeconfig.json
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\bin\Debug\net8.0\progInterfaccia.dll
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\bin\Debug\net8.0\progInterfaccia.pdb
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\obj\Debug\net8.0\progInterfaccia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\obj\Debug\net8.0\progInterfaccia.AssemblyInfoInputs.cache
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\obj\Debug\net8.0\progInterfaccia.AssemblyInfo.cs
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\obj\Debug\net8.0\progInterfaccia.csproj.CoreCompileInputs.cache
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\obj\Debug\net8.0\progInterfaccia.sourcelink.json
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\obj\Debug\net8.0\progInterfaccia.dll
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\obj\Debug\net8.0\refint\progInterfaccia.dll
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\obj\Debug\net8.0\progInterfaccia.pdb
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\obj\Debug\net8.0\progInterfaccia.genruntimeconfig.cache
+C:\Users\symon\Desktop\.NET\progetto_interfaccia\progInterfaccia\obj\Debug\net8.0\ref\progInterfaccia.dll
